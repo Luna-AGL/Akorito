@@ -1,4 +1,4 @@
-Este programa fue desarollado para facilitar el uso de comandos del mismo Windows.
+Эта программа была разработана для облегчения использования команд в "Windows".
 
 
 
