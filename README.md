@@ -1,6 +1,7 @@
 Эта программа была разработана для облегчения использования команд в "Windows".
 ------------------------------------------------------------------------------------
 Программа была создана с целью разработки системы, которая облегчает использование основных команд для динамической оптимизации и улучшения операционной системы.
+The program was created with the objective of developing a system that facilitates the use of essential commands to optimize and improve the operating system in a dynamic way.
 
 
 
